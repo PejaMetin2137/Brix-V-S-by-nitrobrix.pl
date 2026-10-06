@@ -1,0 +1,18 @@
+kod_wady	nazwa_wady	typ_przedmiotu	kara_procentowa	opis
+LOOSE_HELMET	Luny he¸m	MINIFIG	0.2	Cz«sty problem starszych figurek, wyrobiony styk he¸mu z g¸—wkˆ
+TORSO_CRACK	P«kni«cia na torsie	MINIFIG	0.3	Cz«ste uszkodzenia po bokach tors—w, najcz«æciej w okolicach styku z n—ýkami
+ARM_CRACK	P«kni«cia na rˆczce	MINIFIG	0.1	Cz«ste uszkodzenia ramion figurek
+BITE_MARKS	ålady ugryzieÄ	MINIFIG	0.2	Cz«ste uszkodzenia figurek, kt—re by¸y uýywane do zabawy - najcz«æciej wgniecenia oraz fizyczne zniekszta¸cenia plastiku
+LOOSE_JOINTS	Luýne/wyrobione stawy	MINIFIG	0.15	Cz«sty problem figurek, kt—re by¸y rozk¸adane i uk¸adane ponownie wiele razy, elementy ruszajˆ si« bardzo ¸atwo i luno
+YELLOWED_PARTS_MINIS	Poý—¸kni«cia element—w figurek	MINIFIG	0.3	Problem element—w, kt—re mia¸y d¸ugi kontakt ze s¸oÄcem, najcz«æciej bia¸e oraz jasnoszare elementy zmieniajˆ odcieÄ w stron« ý—¸tego
+YELLOWED_PARTS_SETS	Poý—¸kni«cia element—w zestawu	SET	0.3	Problem element—w, kt—re mia¸y d¸ugi kontakt ze s¸oÄcem, najcz«æciej bia¸e oraz jasnoszare elementy zmieniajˆ odcieÄ w stron« ý—¸tego
+MISSING_BOX	Brak oryginalnego pude¸ka	SET	0.25	Zestaw bez oryginalnego pude¸ka, kt—re cz«sto jest duýˆ cz«æciˆ jego wartoæci
+MISSING_MANUAL	Brak oryginalnej instrukcji	SET	0.1	Zestaw bez oryginalnej instrukcji
+MISSING_MINIFIGURES	Brak minifigurek	SET	0.4	Zestaw bez minifigurek, kt—re sˆ w duýej mierze okreæleniem jego wartoæci oraz popularnoæci
+MISSING_PARTS_EXCL	Brak eksluzywnych dla zestawu element—w	SET	0.2	Zestaw bez element—w, kt—re wystˆpi¸y tylko i wy¸ˆcznie w tym zestawie
+MISSING_PARTS1	Brak element—w zestawu	SET	0.15	Zestaw niekompletny, kt—remu brakuje element—w ¸atwych do dokupienia (kompletnoæ > 90%)
+MISSING_PARTS2	Brak element—w zestawu	SET	0.20	Zestaw niekompletny, kt—remu brakuje element—w ¸atwych do dokupienia (brak < 10%)
+MISSING_PARTS3	Brak element—w zestawu	SET	0.25	Zestaw niekompletny, kt—remu brakuje element—w ¸atwych do dokupienia (brak < 20%)
+MISSING_PARTS4	Brak element—w zestawu	SET	0.30	Zestaw niekompletny, kt—remu brakuje element—w ¸atwych do dokupienia (brak < 30%)
+INCOMPLETE	Zestaw niekompletny	SET	0.4	Zestaw niekompletny, kt—remu brakuje element—w ¸atwych do dokupienia (brak > 30%)
+DAMAGED_PARTS	Elementy wykazujˆ mocne ælady uýywania	SET	0.25	Zestaw, w kt—rym elementy majˆ mocne ælady uýytkowania (p«kni«cia element—w, pogryzienia element—w)
