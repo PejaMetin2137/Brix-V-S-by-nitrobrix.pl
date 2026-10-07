@@ -13,4 +13,4 @@ app = FastAPI(
 
 @app.get("/")
 def read_root():
-    return {"status":"ok", "message":"Server is running, tables have been created successfully."}
+    return {"status":"ok", "message":"Serwer jest uruchomiony, tabele zostaly utworzone pomyslnie."}
